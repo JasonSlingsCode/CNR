@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/LevelComplete.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/ButtonAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/ButtonBoxTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/DoorOpen.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Platform.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Settings.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/LevelComplete.cs" Line="13" Column="18" />
+      <File FileName="Assets/_Scripts/ActorControllerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/SmoothCamera2D.cs" Line="28" Column="3" />
+      <File FileName="Assets/_Scripts/IgnoreCollisions.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
